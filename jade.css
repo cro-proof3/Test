@@ -33,7 +33,7 @@ r(--fa-li-width,
 2em)*-1);position:absolute;text-align:center;width:var(--fa-li-width,2em);line-height:inherit}.
 fa-
 border{border-radius:var(--fa-border-radius,.1em);border:var(--fa-border-width,.08em) 
-var(--fa-border-style,solid) var(--fa-border-color,#eee);padding:var(--fa-border-padding,.2em 
+var(--fa-border-style,solid) var(--fa-border-color,#000);padding:var(--fa-border-padding,.2em 
 .25em 
 .15em)}.fa-pull-left{float:left;margin-right:var(--fa-pull-margin,.3em)}.fa-pull-right{float:
 right
